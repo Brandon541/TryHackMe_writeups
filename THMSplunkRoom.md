@@ -10,6 +10,7 @@ Once you read and start your machine click the submit button at the bottom of th
 
 TASK 2:
 	The second task displays how to navigate splunk enterprise, my suggestion here is to follow along with the page and take a moment to familiarize yourself with splunk.
+
 TASK 3:
 	Task 3 will dive deeper into the Search & Reporting app. Where you can set and change different settings for the app, and how to install other apps into splunk.
 	Take a moment to familiarize yourself with how to edit properties by first clicking on the apps tab at the top of your page > Manage Apps, you will see a list of different apps and a little over halfway down you should see Search & Reporting, follow along that row and click on Edit properties. Here you can change the name of the app, set up updates (should be already set up,) hide the app, or upload assets to the app.
