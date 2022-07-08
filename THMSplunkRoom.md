@@ -67,6 +67,7 @@ Splunk no longer offers the Fundamentals 1 certification, they do offer a ton of
 Please if you liked this writeup or if the write up helped you let me know, additionally if there is any improvements I could make to how I did this write up also reach out I would love any feedback.
 
 In service,
+
 Fosi
 
 
